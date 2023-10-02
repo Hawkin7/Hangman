@@ -1,4 +1,3 @@
-hangman images acquired from https://tundeszirak.github.io/hangman/ all rights reserved 
 The hangman images are acquired from https://tundeszirak.github.io/hangman/ all rights reserved 
 
 This app was reacted by Hawkin Spingies 
